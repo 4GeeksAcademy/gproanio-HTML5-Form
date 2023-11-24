@@ -1,0 +1,40 @@
+.formulario{
+    border: 1px solid gray;
+    padding: 13px;
+    margin: 2%;
+    border-radius: 5px;
+}
+#titulo{
+    font-size: 25px;
+}
+hr{
+    height: 1px;
+    width: 50%;
+    background-color: black;
+}
+p{
+    font-size: 15px;
+    color: gray;
+}
+#botones{
+    justify-content: flex-end;
+}
+.tarjetas{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 2%;
+    border-radius: 5px;
+    background-color: gray;
+}
+#mastercard{
+    padding-right: 15px;
+}
+#visa{
+    padding-right: 15px;
+}
+#diners{
+    padding-right: 15px;
+}
+#amex{
+    padding-right: 15px;
+}
